@@ -1,4 +1,4 @@
-# Stockify - My 1st Year Project (ˆᗜˆ)
+# Stockify - My Project During 1st Year Bachelor (ˆᗜˆ)
 An all-in-one Inventory Management System made with C#.NET in Visual Studio. The application has advanced charting, stock control, report generation, and a POS feature, it streamlines inventory operations for seamless management.
 
 
